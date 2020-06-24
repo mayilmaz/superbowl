@@ -8,3 +8,8 @@ Further explanations are included in Jupyter notebook.
 - Pandas
 - Matplotlib
 - Seaborn
+
+
+### Install the requirements
+- Install the requirements using `pip install -r requirements.txt` .
+    * Make sure you use Python 3.
